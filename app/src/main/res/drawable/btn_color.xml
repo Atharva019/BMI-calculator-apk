@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <shape android:shape="rectangle" android:innerRadius="@dimen/material_emphasis_medium">
+            <gradient
+                android:startColor="#BE9224"
+                android:centerColor="#BE9224"
+                android:endColor="#BE9224">
+            </gradient>
+        </shape>
+    </item>
+</selector>
